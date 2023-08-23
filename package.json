@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/nelsyeung/usemin#readme",
   "dependencies": {
-    "clean-css": "^4.2.3",
+    "clean-css": "^5.3.2",
     "html-minifier": "^4.0.0",
-    "mkdirp": "^1.0.3",
-    "uglify-js": "^2.7.5"
+    "mkdirp": "^3.0.1",
+    "uglify-js": "^3.17.4"
   },
   "devDependencies": {
     "chai": "^4.2.0",
